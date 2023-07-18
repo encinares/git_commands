@@ -3,12 +3,21 @@
 **git config --global user.name 'name'**
 **git config --global user.email 'email'**
 
-**git --version**                          check git version
-**touch <file>**                           create file
+**git --version**                          
+check git version
 
-**git init**                               initialize local git repository
-**git add <file>**                         add files to index
-**git rm -- cached <file>**                remove file from staging area
+**touch <file>**                           
+create file
+
+**git init**                               
+
+initialize local git repository
+**git add <file>**                         
+
+add files to index
+**git rm -- cached <file>**                
+
+remove file from staging area
 **git add *.html**                         add all same files to index
 **git add .**                              add all files to index
 **git status**                             check status
@@ -25,10 +34,3 @@
 **git push**                               push to remote repository
 **git pull**                               pull latest from remote repository
 **git clone**                              clone repository into a new directory
-
-
-## *md txt formatting*
-
-Bold                      **This is bold text**       > ** ** or __ __
-Italic                    _This text is italicized_   > * * or _ _   
-Strikethrough             ~~This was mistaken text~~  > ~~ ~~  
