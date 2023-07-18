@@ -1,4 +1,4 @@
-#Git Commands
+# Git Commands
 
 **git config --global user.name 'name'**
 **git config --global user.email 'email'**
@@ -25,3 +25,10 @@
 **git push**                               push to remote repository
 **git pull**                               pull latest from remote repository
 **git clone**                              clone repository into a new directory
+
+
+## *md txt formatting*
+
+Bold                      **This is bold text**       > ** ** or __ __
+Italic                    _This text is italicized_   > * * or _ _   
+Strikethrough             ~~This was mistaken text~~  > ~~ ~~  
