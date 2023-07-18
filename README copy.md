@@ -4,8 +4,7 @@
 
 **git config --global user.email 'email'**
 
-**git --version**                          
-_check git version_
+**git --version**                          _check git version_
 
 **touch <file>**                           
 create file
