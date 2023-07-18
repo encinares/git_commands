@@ -1,6 +1,7 @@
 # Git Commands
 
-**git config --global user.name 'name'**
+**git config --global user.name 'name'** 
+
 **git config --global user.email 'email'**
 
 **git --version**                          check git version
